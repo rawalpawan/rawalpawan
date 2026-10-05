@@ -1,9 +1,8 @@
 ## Hi there ! 👋
 
 
-# I'm Pawan 🙌
-
-# Data Engineer | Building reliable data pipelines & scalable data platforms
+I'm Pawan 🙌
+Data Engineer | Building reliable data pipelines & scalable data platforms
 
 I'm a Data Engineer passionate about turning raw data into **clean, reliable, and actionable data products**.
 
