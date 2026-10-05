@@ -8,7 +8,6 @@ I'm a Data Engineer passionate about turning raw data into **clean, reliable, an
 
 I enjoy designing data pipelines, working with large datasets, optimizing data workflows, and building systems that make data accessible and useful.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +39,6 @@ I enjoy designing data pipelines, working with large datasets, optimizing data w
 * dbt
 * PostgreSQL
 
----
 
 ## 🚀 What I'm Working On
 
@@ -50,7 +48,6 @@ I enjoy designing data pipelines, working with large datasets, optimizing data w
 * 📊 Designing efficient data models and warehouses
 * 🧠 Learning and experimenting with new data engineering technologies
 
----
 
 ## 🤝 Let's Connect
 
@@ -58,6 +55,8 @@ I'm always interested in discussing **Data Engineering, Cloud, Big Data, and int
 
 📫 Feel free to explore my repositories and connect with me!
 
-- ⚡ **Fun fact:** I try to offset my laziness with football and motorcycles. So far, I don't think it's working. 🏍️⚽😴
+
+## ⚡ **Fun fact:** 
+I try to offset my laziness with football and motorcycles. So far, I don't think it's working. 🏍️⚽😴
 
 
